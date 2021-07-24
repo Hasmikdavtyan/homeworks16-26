@@ -1,0 +1,16 @@
+{
+  "name": "homework16",
+  "version": "1.0.0",
+  "description": "",
+  "main": "homework1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hasmik Davtyan",
+  "license": "ISC",
+  "dependencies": {
+    "boolean": "^3.0.2",
+    "random": "^2.2.0",
+    "string-length": "^4.0.1"
+  }
+}

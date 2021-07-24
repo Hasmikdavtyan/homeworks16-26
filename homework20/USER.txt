@@ -1,0 +1,5 @@
+uid: -1
+,gid: -1
+,username: USER
+,homedir: C:\Users\USER
+,shell: null
